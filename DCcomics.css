@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding: 0px;
+	margin: 0px;
+	font: 'Handlee', cursive;
+	font-size: 13pt;
+}
+h1{
+	font: bold 20px 'Handee';
+}
+header, section, footer, aside, nav, article {
+	display: block;
+}
+body{
+	margin: 0px;
+	overflow-x: hidden;
+	display: -webkit-box;
+	-webkit-box-pack: center;
+}
+
+#batman {
+	max-width: overflow;
+	margin: 20px 0px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-box-flex: 1;
+	
+}
+#justice {
+		overflow-x: hidden !important;
+		-webkit-background-size: cover;
+		background: royal-blue;
+		border: 3px solid black;
+		padding: 20px;
+		text-align: center;
+		
+}
+#batcave {
+	border-bottom: 3px solid black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+	background: deepskyblue;
+	color: white;
+	text-align: center;
+	word-spacing: 30px;
+	padding-right: 30px;
+}
+#batcave li {
+	display: inline-block;
+	list-style: none;
+	padding: 5px;
+	font: bold 14px 'Handee';
+}
+#new_div {
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	
+}
+#nightwing {
+	border: 1px solid black;
+	display: -webkit-box;
+	-webkit-box-flex: 1;
+	margin: 20px;
+	margin-left: 0px;
+	padding: 10px;
+}
+
+#nightwing h1 {
+	font-family: 'Lobster', 'cursive';
+	font-size: 20px;
+	text-align: left;
+	
+}
+
+#robin {
+	border: 1px solid black;
+	width: 220px;
+	margin: 20px 0px;
+	padding: 40px;
+	background: silver;
+	font-family: 'Lobster', 'cursive';
+}
+h4 {
+	text-align: center;
+}
+
+#robin2 {
+	border: 1px solid black;
+	width: 220px;
+	margin: 20px 0px;
+	padding: 60px;
+	background: silver;
+	font-family: 'Lobster', 'cursive';
+}
+
+#seven h1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+#redhood {
+	text-align: center;
+	padding: 20px;
+	border-top: 2px solid black;
+	color: black;
+}
+
+#character {
+	background-color: white;
+	
+}
+
+#featured {
+	max-width: overflow;
+}
+	
+#mommy {
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+	padding-left: 130px;
+	
+}
+#mommy p {
+	font-size: 15px;
+}
+
+#kid1, #kid2, #kid3, #kid4, #kid5, #kid6, #kid7 {
+	padding: 5px;
+	margin: 5px;
+}
+
+#seven {
+	text-align: center;
+}
+
+#foot {
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+}
+
+#foot p{
+	font-size: 18px;
+	color: black;
+}
+
+footer p {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 50px;
+	color: deepskyblue;
+}
+
+#shows {
+	display: -webkit-box;
+	-webkit-box-orient: horizontal;
+}
+
+#show1, #show2, #show3, #show4, #show5 {
+	padding: 5px;
+	margin: 5px;
+}
+
+#bottom p {
+	text-align: center;
+	font-family: 'Lobster', 'cursive';
+}
+
+hr {
+	border-color: black;
+}
+#rebirth {
+	float: right;
+	padding-left: 5px
+	
+}
+#rebirth2 {
+	float: right;
+}
